@@ -7,5 +7,7 @@
 then press S<what u want to surround it with>
 - HTML-autoCloseTage closes html tags automatically
 -csapprox is a plugin for themes
+ 
+ 
  #.tmux.conf
 the .tmux.conf i use is:https://gist.github.com/spicycode/1229612
