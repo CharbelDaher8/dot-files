@@ -10,10 +10,10 @@ Plug 'prettier/vim-prettier'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-scripts/HTML-AutoCloseTag'
 Plug 'vim-scripts/nuvola.vim'
-"  Plug 'godlygeek/csapprox'
+Plug 'godlygeek/csapprox'
 Plug 'gosukiwi/vim-atom-dark'
-" Plug 'xolox/vim-notes' 
-" Plug 'xolox/vim-misc' 
+Plug 'xolox/vim-notes' 
+Plug 'xolox/vim-misc' 
 call plug#end()
 
 syntax on
