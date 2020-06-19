@@ -10,4 +10,5 @@ then press S<what u want to surround it with>
  
  
  #.tmux.conf
+
 the .tmux.conf i use is:https://gist.github.com/spicycode/1229612
