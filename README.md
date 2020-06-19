@@ -1,5 +1,5 @@
 # vimrc
-- The polyglot is for highlighting
+- The polyglot is for syntax
 - Autumn leaf is a theme
 - Gruvbox is a theme
 - Nerd tree for exploring dirs
