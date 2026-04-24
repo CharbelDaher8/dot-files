@@ -1,0 +1,15 @@
+[2m2026-04-24T13:10:48.065793Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2026-04-24T13:15:38.439117Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 53 column 15
+[2m2026-04-24T13:15:41.805265Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 53 column 15
+[2m2026-04-24T13:16:24.025771Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 53 column 15
+[2m2026-04-24T13:20:58.166798Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[8].commands: unrecognized subcommand
+ at line 86 column 15
+[2m2026-04-24T13:22:39.988242Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[19].commands: unrecognized subcommand
+ at line 122 column 15
+[2m2026-04-24T13:23:58.338604Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[30].commands: unrecognized subcommand
+ at line 150 column 15
+[2m2026-04-24T13:31:30.759944Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace.
+[2m2026-04-24T13:35:45.618471Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace.
